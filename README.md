@@ -1,2 +1,2 @@
 # Personal Portfolio Website
-Preview: https://bit.ly/3Vxk4f7
+Preview: https://rad-monstera-d89871.netlify.app/
